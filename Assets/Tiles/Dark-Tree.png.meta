@@ -1,0 +1,2038 @@
+fileFormatVersion: 2
+guid: 69d807c8c273ad14782ae086f0ea539f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 912318509565430840
+    second: Dark-Tree_0
+  - first:
+      213: -4562724755389873029
+    second: Dark-Tree_1
+  - first:
+      213: -2285996875029012998
+    second: Dark-Tree_2
+  - first:
+      213: 169505656720191647
+    second: Dark-Tree_3
+  - first:
+      213: 285822955967995167
+    second: Dark-Tree_4
+  - first:
+      213: 8259121423027151680
+    second: Dark-Tree_5
+  - first:
+      213: 7862910597677321703
+    second: Dark-Tree_6
+  - first:
+      213: -3710533294018753112
+    second: Dark-Tree_7
+  - first:
+      213: -3644233815061161073
+    second: Dark-Tree_8
+  - first:
+      213: 6756082738300320524
+    second: Dark-Tree_9
+  - first:
+      213: 7515972643898862793
+    second: Dark-Tree_10
+  - first:
+      213: -1351579194390171154
+    second: Dark-Tree_11
+  - first:
+      213: 3502442943868573502
+    second: Dark-Tree_12
+  - first:
+      213: -5285330801496209926
+    second: Dark-Tree_13
+  - first:
+      213: -3454855867432577834
+    second: Dark-Tree_14
+  - first:
+      213: 6431524172165229362
+    second: Dark-Tree_15
+  - first:
+      213: -2384151796505959318
+    second: Dark-Tree_16
+  - first:
+      213: -2780364956126909127
+    second: Dark-Tree_17
+  - first:
+      213: 1791043931130748521
+    second: Dark-Tree_18
+  - first:
+      213: -2064577288328550396
+    second: Dark-Tree_19
+  - first:
+      213: -5589185111611197847
+    second: Dark-Tree_20
+  - first:
+      213: 6739973794945399316
+    second: Dark-Tree_21
+  - first:
+      213: -356918921405909017
+    second: Dark-Tree_22
+  - first:
+      213: 3915939631234137785
+    second: Dark-Tree_23
+  - first:
+      213: 5900188245956006982
+    second: Dark-Tree_24
+  - first:
+      213: -3105265702397678041
+    second: Dark-Tree_25
+  - first:
+      213: 7207376277559507701
+    second: Dark-Tree_26
+  - first:
+      213: -1989958833750196913
+    second: Dark-Tree_27
+  - first:
+      213: -604752693224398365
+    second: Dark-Tree_28
+  - first:
+      213: 2202695131676450520
+    second: Dark-Tree_29
+  - first:
+      213: -7904483382763143806
+    second: Dark-Tree_30
+  - first:
+      213: -2959023321652695507
+    second: Dark-Tree_31
+  - first:
+      213: -8761158045005721792
+    second: Dark-Tree_32
+  - first:
+      213: 5650283104062819644
+    second: Dark-Tree_33
+  - first:
+      213: -6988860362459784687
+    second: Dark-Tree_34
+  - first:
+      213: 7559739549414654938
+    second: Dark-Tree_35
+  - first:
+      213: -4659298929222545661
+    second: Dark-Tree_36
+  - first:
+      213: 1771011867945677678
+    second: Dark-Tree_37
+  - first:
+      213: -6589746223107281709
+    second: Dark-Tree_38
+  - first:
+      213: -7988788076975858247
+    second: Dark-Tree_39
+  - first:
+      213: 896229748460864006
+    second: Dark-Tree_40
+  - first:
+      213: -367177549710756295
+    second: Dark-Tree_41
+  - first:
+      213: 2457845390775529747
+    second: Dark-Tree_42
+  - first:
+      213: 4836001473583268306
+    second: Dark-Tree_43
+  - first:
+      213: 822250423154569617
+    second: Dark-Tree_44
+  - first:
+      213: 7883079380683064953
+    second: Dark-Tree_45
+  - first:
+      213: -2598761419970536706
+    second: Dark-Tree_46
+  - first:
+      213: -6503443152228106241
+    second: Dark-Tree_47
+  - first:
+      213: -4909445385667222086
+    second: Dark-Tree_48
+  - first:
+      213: 3310618971995794063
+    second: Dark-Tree_49
+  - first:
+      213: 871831663484806512
+    second: Dark-Tree_50
+  - first:
+      213: -3746360558412164918
+    second: Dark-Tree_51
+  - first:
+      213: 3031597949868067122
+    second: Dark-Tree_52
+  - first:
+      213: 3254532795445350401
+    second: Dark-Tree_53
+  - first:
+      213: -2214079651347231740
+    second: Dark-Tree_54
+  - first:
+      213: -909867129716933932
+    second: Dark-Tree_55
+  - first:
+      213: -5401092470114360627
+    second: Dark-Tree_56
+  - first:
+      213: -5830456204079639502
+    second: Dark-Tree_57
+  - first:
+      213: -4102088531954183864
+    second: Dark-Tree_58
+  - first:
+      213: -2618845501928719473
+    second: Dark-Tree_59
+  - first:
+      213: 8664761927380200794
+    second: Dark-Tree_60
+  - first:
+      213: -1441577027363144662
+    second: Dark-Tree_61
+  - first:
+      213: -5596880441489605856
+    second: Dark-Tree_62
+  - first:
+      213: -6027583439195141868
+    second: Dark-Tree_63
+  - first:
+      213: 5522516296477245761
+    second: Dark-Tree_64
+  - first:
+      213: 4839936282011655294
+    second: Dark-Tree_65
+  - first:
+      213: 808975434286644238
+    second: Dark-Tree_66
+  - first:
+      213: -8621042096281902685
+    second: Dark-Tree_67
+  - first:
+      213: 492103266147529653
+    second: Dark-Tree_68
+  - first:
+      213: 5523966516265501824
+    second: Dark-Tree_69
+  - first:
+      213: 4650506265600832374
+    second: Dark-Tree_70
+  - first:
+      213: -1163616944484437944
+    second: Dark-Tree_71
+  - first:
+      213: 5205585443120058167
+    second: Dark-Tree_72
+  - first:
+      213: 3730854202620468399
+    second: Dark-Tree_73
+  - first:
+      213: -1601152380526140990
+    second: Dark-Tree_74
+  - first:
+      213: 564495141505188383
+    second: Dark-Tree_75
+  - first:
+      213: -7448840838881001269
+    second: Dark-Tree_76
+  - first:
+      213: -5467571627901914792
+    second: Dark-Tree_77
+  - first:
+      213: -1795607608528352896
+    second: Dark-Tree_78
+  - first:
+      213: -5215096672819019027
+    second: Dark-Tree_79
+  - first:
+      213: 7903374142647734321
+    second: Dark-Tree_80
+  - first:
+      213: -7910387064394712202
+    second: Dark-Tree_81
+  - first:
+      213: 546394957303615117
+    second: Dark-Tree_82
+  - first:
+      213: 7494926533828993591
+    second: Dark-Tree_83
+  - first:
+      213: -2841081804080513477
+    second: Dark-Tree_84
+  - first:
+      213: 1760355703535038168
+    second: Dark-Tree_85
+  - first:
+      213: 1932103326181789074
+    second: Dark-Tree_86
+  - first:
+      213: -9130290613670283239
+    second: Dark-Tree_87
+  - first:
+      213: 6397997614296756445
+    second: Dark-Tree_88
+  - first:
+      213: -3484599602199313966
+    second: Dark-Tree_89
+  - first:
+      213: 7023085653717085601
+    second: Dark-Tree_90
+  - first:
+      213: -1083501177328307415
+    second: Dark-Tree_91
+  - first:
+      213: -911331078557688770
+    second: Dark-Tree_92
+  - first:
+      213: 1576709869204008604
+    second: Dark-Tree_93
+  - first:
+      213: 382150016035592894
+    second: Dark-Tree_94
+  - first:
+      213: 5188958965466373313
+    second: Dark-Tree_95
+  - first:
+      213: -2282051069949165728
+    second: Dark-Tree_96
+  - first:
+      213: -9189217873588161462
+    second: Dark-Tree_97
+  - first:
+      213: 2825250380456168298
+    second: Dark-Tree_98
+  - first:
+      213: 3277883567769767879
+    second: Dark-Tree_99
+  - first:
+      213: 6556227674238045107
+    second: Dark-Tree_100
+  - first:
+      213: 8031399717980813968
+    second: Dark-Tree_101
+  - first:
+      213: -4518195644215811555
+    second: Dark-Tree_102
+  - first:
+      213: -2613095762409674518
+    second: Dark-Tree_103
+  - first:
+      213: -8258453625512824289
+    second: Dark-Tree_104
+  - first:
+      213: -6133028803185497226
+    second: Dark-Tree_105
+  - first:
+      213: 3124836950033683556
+    second: Dark-Tree_106
+  - first:
+      213: -996232101877570093
+    second: Dark-Tree_107
+  - first:
+      213: -7273322646889995652
+    second: Dark-Tree_108
+  - first:
+      213: -2174338389490794812
+    second: Dark-Tree_109
+  - first:
+      213: -7069052457588203519
+    second: Dark-Tree_110
+  - first:
+      213: 8473638988543692604
+    second: Dark-Tree_111
+  - first:
+      213: -106887169833785245
+    second: Dark-Tree_112
+  - first:
+      213: -9038803205575741316
+    second: Dark-Tree_113
+  - first:
+      213: -4044828561537350995
+    second: Dark-Tree_114
+  - first:
+      213: 745155001851189036
+    second: Dark-Tree_115
+  - first:
+      213: -3929956338497039651
+    second: Dark-Tree_116
+  - first:
+      213: 4428041163444449471
+    second: Dark-Tree_117
+  - first:
+      213: 9057723713936959563
+    second: Dark-Tree_118
+  - first:
+      213: -9031982368076498287
+    second: Dark-Tree_119
+  - first:
+      213: -3176401822736668877
+    second: Dark-Tree_120
+  - first:
+      213: -7368560573360020546
+    second: Dark-Tree_121
+  - first:
+      213: 7842207621672039563
+    second: Dark-Tree_122
+  - first:
+      213: -7841589369796415966
+    second: Dark-Tree_123
+  - first:
+      213: -160337420024807491
+    second: Dark-Tree_124
+  - first:
+      213: -2210962472936896840
+    second: Dark-Tree_125
+  - first:
+      213: 7184698736506257686
+    second: Dark-Tree_126
+  - first:
+      213: -7463514107644926804
+    second: Dark-Tree_127
+  - first:
+      213: 1892972775466327963
+    second: Dark-Tree_128
+  - first:
+      213: -1402983143319415613
+    second: Dark-Tree_129
+  - first:
+      213: 5199272155660938947
+    second: Dark-Tree_130
+  - first:
+      213: -7247669691294219669
+    second: Dark-Tree_131
+  - first:
+      213: -6109929890562062132
+    second: Dark-Tree_132
+  - first:
+      213: 8064134799584963445
+    second: Dark-Tree_133
+  - first:
+      213: 2648342201111936342
+    second: Dark-Tree_134
+  - first:
+      213: 5235826371113319300
+    second: Dark-Tree_135
+  - first:
+      213: 15735050650365751
+    second: Dark-Tree_136
+  - first:
+      213: 7098527393908835985
+    second: Dark-Tree_137
+  - first:
+      213: 2140040172386596525
+    second: Dark-Tree_138
+  - first:
+      213: 7818909602093398222
+    second: Dark-Tree_139
+  - first:
+      213: -4870842145600466795
+    second: Dark-Tree_140
+  - first:
+      213: 5391626207858341291
+    second: Dark-Tree_141
+  - first:
+      213: 7518255435384332413
+    second: Dark-Tree_142
+  - first:
+      213: -2051493331420523427
+    second: Dark-Tree_143
+  - first:
+      213: 6637259040040796082
+    second: Dark-Tree_144
+  - first:
+      213: 2216243558475330987
+    second: Dark-Tree_145
+  - first:
+      213: -194287144818688959
+    second: Dark-Tree_146
+  - first:
+      213: -7101509923102253482
+    second: Dark-Tree_147
+  - first:
+      213: -5428951912634051930
+    second: Dark-Tree_148
+  - first:
+      213: 1508039340828029773
+    second: Dark-Tree_149
+  - first:
+      213: -2164789224954179057
+    second: Dark-Tree_150
+  - first:
+      213: 5440253943743611061
+    second: Dark-Tree_151
+  - first:
+      213: 1239536280474127687
+    second: Dark-Tree_152
+  - first:
+      213: -818989524257981793
+    second: Dark-Tree_153
+  - first:
+      213: 1005484176235680122
+    second: Dark-Tree_154
+  - first:
+      213: 6155532535486474181
+    second: Dark-Tree_155
+  - first:
+      213: -8455559022584673028
+    second: Dark-Tree_156
+  - first:
+      213: -3468132805275159358
+    second: Dark-Tree_157
+  - first:
+      213: 4448593961763180881
+    second: Dark-Tree_158
+  - first:
+      213: -7246220270744163532
+    second: Dark-Tree_159
+  - first:
+      213: 239455165548977738
+    second: Dark-Tree_160
+  - first:
+      213: 7084131152083910620
+    second: Dark-Tree_161
+  - first:
+      213: 1286230199302306662
+    second: Dark-Tree_162
+  - first:
+      213: -8680287230678826930
+    second: Dark-Tree_163
+  - first:
+      213: 4244247268973964700
+    second: Dark-Tree_164
+  - first:
+      213: 4485979944483187872
+    second: Dark-Tree_165
+  - first:
+      213: -1554450165195233299
+    second: Dark-Tree_166
+  - first:
+      213: -8965628591880820717
+    second: Dark-Tree_167
+  - first:
+      213: 8622110064896327762
+    second: Dark-Tree_168
+  - first:
+      213: -3444128492197646417
+    second: Dark-Tree_169
+  - first:
+      213: -5495404666901572259
+    second: Dark-Tree_170
+  - first:
+      213: 8760359047771240342
+    second: Dark-Tree_171
+  - first:
+      213: 354639763612996708
+    second: Dark-Tree_172
+  - first:
+      213: 4861027847670289845
+    second: Dark-Tree_173
+  - first:
+      213: 7033424451231629865
+    second: Dark-Tree_174
+  - first:
+      213: -5849690656616609346
+    second: Dark-Tree_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark-Tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c49acc9d439ac00800000000000000
+      internalID: 912318509565430840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 882
+        width: 107
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b740b136202fda0c0800000000000000
+      internalID: -4562724755389873029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd1e3234f18640e0800000000000000
+      internalID: -2285996875029012998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 832
+        width: 69
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f9382f743a5200800000000000000
+      internalID: 169505656720191647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 832
+        width: 27
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ddf1fc67277f300800000000000000
+      internalID: 285822955967995167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 893
+        width: 69
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432a50fc2b4e9270800000000000000
+      internalID: 8259121423027151680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed0633778bae1d60800000000000000
+      internalID: 7862910597677321703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 882
+        width: 107
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad80cad0a9818cc0800000000000000
+      internalID: -3710533294018753112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b10d637a41d6dc0800000000000000
+      internalID: -3644233815061161073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_9
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 832
+        width: 69
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bf989847d62cd50800000000000000
+      internalID: 6756082738300320524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 832
+        width: 27
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc252d5c491e4860800000000000000
+      internalID: 7515972643898862793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_11
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 893
+        width: 69
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1b09832e93e3de0800000000000000
+      internalID: -1351579194390171154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 497
+        width: 108
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e371c5bfc4d2b9030800000000000000
+      internalID: 3502442943868573502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 523
+        width: 108
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5436093abb6a6b0800000000000000
+      internalID: -5285330801496209926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 495
+        width: 108
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d187a4e2ed00d0800000000000000
+      internalID: -3454855867432577834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 112
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2f3ea82d514950800000000000000
+      internalID: 6431524172165229362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6427a6a29ac9eed0800000000000000
+      internalID: -2384151796505959318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 496
+        width: 21
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d6c1cadc82a69d0800000000000000
+      internalID: -2780364956126909127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_18
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 578
+        width: 56
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eda2c47f01bd810800000000000000
+      internalID: 1791043931130748521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 523
+        width: 104
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40866d515e52953e0800000000000000
+      internalID: -2064577288328550396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663386f0c93f62b0800000000000000
+      internalID: -5589185111611197847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 112
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7923e472398d50800000000000000
+      internalID: 6739973794945399316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 121
+        width: 88
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e73cfbc128fb0bf0800000000000000
+      internalID: -356918921405909017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_23
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beb599d856385630800000000000000
+      internalID: 3915939631234137785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 88
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644942cf2fda1e150800000000000000
+      internalID: 5900188245956006982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_25
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 112
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ee16bcb41e7e4d0800000000000000
+      internalID: -3105265702397678041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf282c98eb50460800000000000000
+      internalID: 7207376277559507701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 496
+        width: 56
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3ba4ebfe3264e0800000000000000
+      internalID: -1989958833750196913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 272
+        width: 17
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1266f21ac7b97f0800000000000000
+      internalID: -604752693224398365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_29
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 272
+        width: 88
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de9e084d8b819e10800000000000000
+      internalID: 2202695131676450520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_30
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 496
+        width: 108
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dbc6d3e32ad4290800000000000000
+      internalID: -7904483382763143806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 121
+        width: 88
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e6bce67ff6fe6d0800000000000000
+      internalID: -2959023321652695507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_32
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 496
+        width: 108
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fc06a3d2d1a6680800000000000000
+      internalID: -8761158045005721792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_33
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 496
+        width: 56
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d4e02fb86d96e40800000000000000
+      internalID: 5650283104062819644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_34
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 496
+        width: 21
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ad6c66784920f90800000000000000
+      internalID: -6988860362459784687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_35
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 578
+        width: 56
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30555211799e860800000000000000
+      internalID: 7559739549414654938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 112
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f05555f48d65fb0800000000000000
+      internalID: -4659298929222545661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 286
+        width: 88
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6337e129e5e39810800000000000000
+      internalID: 1771011867945677678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 272
+        width: 88
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dce7bb59b48c84a0800000000000000
+      internalID: -6589746223107281709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 272
+        width: 55
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5af5029f122190800000000000000
+      internalID: -7988788076975858247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_40
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 296
+        width: 55
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c522353c007c00800000000000000
+      internalID: 896229748460864006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_41
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 286
+        width: 88
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936fdf3c6f587eaf0800000000000000
+      internalID: -367177549710756295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_42
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 272
+        width: 88
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311b1065c550c1220800000000000000
+      internalID: 2457845390775529747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_43
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 272
+        width: 55
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1423ec7bdec1340800000000000000
+      internalID: 4836001473583268306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_44
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 272
+        width: 17
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191fa844768396b00800000000000000
+      internalID: 822250423154569617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_45
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 296
+        width: 55
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97602dd2ee2566d60800000000000000
+      internalID: 7883079380683064953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9aa2e1485febd0800000000000000
+      internalID: -2598761419970536706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 13
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff3f76e8e02fb5a0800000000000000
+      internalID: -6503443152228106241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_48
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 112
+        width: 54
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ef1fde652edbb0800000000000000
+      internalID: -4909445385667222086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 112
+        width: 22
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a6a742a6ea1fd20800000000000000
+      internalID: 3310618971995794063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_50
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 153
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07523fd574e591c00800000000000000
+      internalID: 871831663484806512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_51
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 112
+        width: 54
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac01f43dbe0420cc0800000000000000
+      internalID: -3746360558412164918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_52
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 41
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23940b7f546621a20800000000000000
+      internalID: 3031597949868067122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_53
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 12
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100116e855c6a2d20800000000000000
+      internalID: 3254532795445350401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_54
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 112
+        width: 22
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c070da9420641e0800000000000000
+      internalID: -2214079651347231740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_55
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 153
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dafa6c8aa08f53f0800000000000000
+      internalID: -909867129716933932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_56
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 13
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45897c645f3d74883d52b440a4d402
+      internalID: -5401092470114360627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_57
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a14fa47ed3ea148943cd8cd6b5c1a9
+      internalID: -5830456204079639502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_58
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 12
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1e7fd439e288488a3614634b4ced1
+      internalID: -4102088531954183864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-Tree_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 41
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335847bf3cde21f4bbc0c42a73475a56
+      internalID: -2618845501928719473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7bdd02e4cf3d9b24d88f0f113c722c17
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark-Tree_0: 912318509565430840
+      Dark-Tree_1: -4562724755389873029
+      Dark-Tree_10: 7515972643898862793
+      Dark-Tree_11: -1351579194390171154
+      Dark-Tree_12: 3502442943868573502
+      Dark-Tree_13: -5285330801496209926
+      Dark-Tree_14: -3454855867432577834
+      Dark-Tree_15: 6431524172165229362
+      Dark-Tree_16: -2384151796505959318
+      Dark-Tree_17: -2780364956126909127
+      Dark-Tree_18: 1791043931130748521
+      Dark-Tree_19: -2064577288328550396
+      Dark-Tree_2: -2285996875029012998
+      Dark-Tree_20: -5589185111611197847
+      Dark-Tree_21: 6739973794945399316
+      Dark-Tree_22: -356918921405909017
+      Dark-Tree_23: 3915939631234137785
+      Dark-Tree_24: 5900188245956006982
+      Dark-Tree_25: -3105265702397678041
+      Dark-Tree_26: 7207376277559507701
+      Dark-Tree_27: -1989958833750196913
+      Dark-Tree_28: -604752693224398365
+      Dark-Tree_29: 2202695131676450520
+      Dark-Tree_3: 169505656720191647
+      Dark-Tree_30: -7904483382763143806
+      Dark-Tree_31: -2959023321652695507
+      Dark-Tree_32: -8761158045005721792
+      Dark-Tree_33: 5650283104062819644
+      Dark-Tree_34: -6988860362459784687
+      Dark-Tree_35: 7559739549414654938
+      Dark-Tree_36: -4659298929222545661
+      Dark-Tree_37: 1771011867945677678
+      Dark-Tree_38: -6589746223107281709
+      Dark-Tree_39: -7988788076975858247
+      Dark-Tree_4: 285822955967995167
+      Dark-Tree_40: 896229748460864006
+      Dark-Tree_41: -367177549710756295
+      Dark-Tree_42: 2457845390775529747
+      Dark-Tree_43: 4836001473583268306
+      Dark-Tree_44: 822250423154569617
+      Dark-Tree_45: 7883079380683064953
+      Dark-Tree_46: -2598761419970536706
+      Dark-Tree_47: -6503443152228106241
+      Dark-Tree_48: -4909445385667222086
+      Dark-Tree_49: 3310618971995794063
+      Dark-Tree_5: 8259121423027151680
+      Dark-Tree_50: 871831663484806512
+      Dark-Tree_51: -3746360558412164918
+      Dark-Tree_52: 3031597949868067122
+      Dark-Tree_53: 3254532795445350401
+      Dark-Tree_54: -2214079651347231740
+      Dark-Tree_55: -909867129716933932
+      Dark-Tree_56: -5401092470114360627
+      Dark-Tree_57: -5830456204079639502
+      Dark-Tree_58: -4102088531954183864
+      Dark-Tree_59: -2618845501928719473
+      Dark-Tree_6: 7862910597677321703
+      Dark-Tree_7: -3710533294018753112
+      Dark-Tree_8: -3644233815061161073
+      Dark-Tree_9: 6756082738300320524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

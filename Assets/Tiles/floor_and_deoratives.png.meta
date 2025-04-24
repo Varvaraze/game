@@ -1,0 +1,1180 @@
+fileFormatVersion: 2
+guid: 754c1848e1c4c5947b74a50613c8a7b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2691607346722771621
+    second: floor_and_deoratives_0
+  - first:
+      213: -7148940875007441096
+    second: floor_and_deoratives_1
+  - first:
+      213: -8021965052483640055
+    second: floor_and_deoratives_2
+  - first:
+      213: 360431338868111126
+    second: floor_and_deoratives_3
+  - first:
+      213: 4055207972668459958
+    second: floor_and_deoratives_4
+  - first:
+      213: 8194842719202946795
+    second: floor_and_deoratives_5
+  - first:
+      213: -6633240852845457395
+    second: floor_and_deoratives_6
+  - first:
+      213: 8153552972286983553
+    second: floor_and_deoratives_7
+  - first:
+      213: -8471794273690681255
+    second: floor_and_deoratives_8
+  - first:
+      213: -4520926318857733711
+    second: floor_and_deoratives_9
+  - first:
+      213: -239288313321165976
+    second: floor_and_deoratives_10
+  - first:
+      213: -6518524485120699145
+    second: floor_and_deoratives_11
+  - first:
+      213: 1680708692225353899
+    second: floor_and_deoratives_12
+  - first:
+      213: 7301305339720445558
+    second: floor_and_deoratives_13
+  - first:
+      213: 354229383677189372
+    second: floor_and_deoratives_14
+  - first:
+      213: 8686201797964420697
+    second: floor_and_deoratives_15
+  - first:
+      213: 3080251276893134358
+    second: floor_and_deoratives_16
+  - first:
+      213: -2660666402786599594
+    second: floor_and_deoratives_17
+  - first:
+      213: 5074538093433883755
+    second: floor_and_deoratives_18
+  - first:
+      213: 8482637673161093487
+    second: floor_and_deoratives_19
+  - first:
+      213: 3274113537235972333
+    second: floor_and_deoratives_20
+  - first:
+      213: -7957274795658571674
+    second: floor_and_deoratives_21
+  - first:
+      213: 1197597333907280546
+    second: floor_and_deoratives_22
+  - first:
+      213: -9184957458538121294
+    second: floor_and_deoratives_23
+  - first:
+      213: -6717458230414789622
+    second: floor_and_deoratives_24
+  - first:
+      213: 9110355204776055125
+    second: floor_and_deoratives_25
+  - first:
+      213: -2654766351937546603
+    second: floor_and_deoratives_26
+  - first:
+      213: -7081197150023323225
+    second: floor_and_deoratives_27
+  - first:
+      213: 7260748953881705018
+    second: floor_and_deoratives_28
+  - first:
+      213: -404690413930444248
+    second: floor_and_deoratives_29
+  - first:
+      213: -8392689282677807945
+    second: floor_and_deoratives_30
+  - first:
+      213: 4334085361643852090
+    second: floor_and_deoratives_31
+  - first:
+      213: -3665435241614498369
+    second: floor_and_deoratives_32
+  - first:
+      213: -4889034105077392197
+    second: floor_and_deoratives_33
+  - first:
+      213: 3241219326345772631
+    second: floor_and_deoratives_34
+  - first:
+      213: 9173419009762769610
+    second: floor_and_deoratives_35
+  - first:
+      213: 7675554641834664783
+    second: floor_and_deoratives_36
+  - first:
+      213: -9198653579862118158
+    second: floor_and_deoratives_37
+  - first:
+      213: 2677823131880191599
+    second: floor_and_deoratives_38
+  - first:
+      213: -4444715014025813593
+    second: floor_and_deoratives_39
+  - first:
+      213: 7239277727333952667
+    second: floor_and_deoratives_40
+  - first:
+      213: 6278858069235616800
+    second: floor_and_deoratives_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor_and_deoratives_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 42
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21e300f928a5520800000000000000
+      internalID: 2691607346722771621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83749e0a62cd9cc90800000000000000
+      internalID: -7148940875007441096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 108
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9056d1679414ca090800000000000000
+      internalID: -8021965052483640055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 104
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617f62f9462800500800000000000000
+      internalID: 360431338868111126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 86
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb4c3d6a2ef64830800000000000000
+      internalID: 4055207972668459958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 81
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beea944f80ee9b170800000000000000
+      internalID: 8194842719202946795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 83
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d009988b69ef1f3a0800000000000000
+      internalID: -6633240852845457395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 71
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dfe7a9a3d372170800000000000000
+      internalID: 8153552972286983553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 99
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9508a7a5ef32e6a80800000000000000
+      internalID: -8471794273690681255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 69
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b935c447717241c0800000000000000
+      internalID: -4520926318857733711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 63
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86be69dfb80edacf0800000000000000
+      internalID: -239288313321165976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 51
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d1b4748c8985a0800000000000000
+      internalID: -6518524485120699145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e00b96a3135710800000000000000
+      internalID: 1680708692225353899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e23b2c582735560800000000000000
+      internalID: 7301305339720445558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 64
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc95176fb97ae400800000000000000
+      internalID: 354229383677189372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 73
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956570783869b8870800000000000000
+      internalID: 8686201797964420697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 67
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e982a67304fba20800000000000000
+      internalID: 3080251276893134358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d9614e00a631bd0800000000000000
+      internalID: -2660666402786599594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c805a82816c6640800000000000000
+      internalID: 5074538093433883755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 45
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61fc13550268b570800000000000000
+      internalID: 8482637673161093487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de07f354aecff6d20800000000000000
+      internalID: 3274113537235972333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 45
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601a989bb4129190800000000000000
+      internalID: -7957274795658571674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a29f771e68be9010800000000000000
+      internalID: 1197597333907280546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 39
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7b2cefad9788080800000000000000
+      internalID: -9184957458538121294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a043a9e745bc6c2a0800000000000000
+      internalID: -6717458230414789622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 39
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551de4e3acb7e6e70800000000000000
+      internalID: 9110355204776055125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5965a178110682bd0800000000000000
+      internalID: -2654766351937546603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 7
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f958b5b88abd90800000000000000
+      internalID: -7081197150023323225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_28
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a786754bc53c460800000000000000
+      internalID: 7260748953881705018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a8ba17630426af0800000000000000
+      internalID: -404690413930444248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e2c3509d278b80800000000000000
+      internalID: -8392689282677807945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3190076ca3c52c30800000000000000
+      internalID: 4334085361643852090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ae5c6112c12dc0800000000000000
+      internalID: -3665435241614498369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc97187269a62cb0800000000000000
+      internalID: -4889034105077392197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e78f9fdcf1bfc20800000000000000
+      internalID: 3241219326345772631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_35
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 8
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acab9bc8cf78e4f70800000000000000
+      internalID: 9173419009762769610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_36
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e7a8a74c058a60800000000000000
+      internalID: 7675554641834664783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f071704e41d75080800000000000000
+      internalID: -9198653579862118158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66fa0363f9892520800000000000000
+      internalID: 2677823131880191599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1652d6e333152c0800000000000000
+      internalID: -4444715014025813593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 6
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c2328dcb4177460800000000000000
+      internalID: 7239277727333952667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_and_deoratives_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 6
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c42eba52cf22750800000000000000
+      internalID: 6278858069235616800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

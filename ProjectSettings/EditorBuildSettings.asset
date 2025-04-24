@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: eb1ec0ed9e70f9d45893ca088526b06b
+  - enabled: 1
+    path: Assets/Scenes/House1.unity
+    guid: 005f93b1790521948b28f387da2a1146
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: 8b7b13389c30b274d8259a2404fe4808
+  - enabled: 1
+    path: Assets/Scenes/House2.unity
+    guid: 4ffff3c7a78a5164c80a3499cf481c78
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: f124f42671dcf1444855742d9a8f60ba
+  - enabled: 1
+    path: Assets/Scenes/Proba.unity
+    guid: 9d32a3c5841094c4dbc96bd62e207f35
+  - enabled: 1
+    path: Assets/Scenes/Scene1.1.1.unity
+    guid: 458f57d48b210da4ebb352545db35bee
+  - enabled: 1
+    path: Assets/Scenes/Home1.unity
+    guid: 5e262203bea847f43a232fcdc8e9c625
+  - enabled: 1
+    path: Assets/Scenes/Home2.unity
+    guid: ac1a6c47bd0c0644894e513832e8a671
+  - enabled: 1
+    path: Assets/Scenes/Home3.unity
+    guid: 25f7492d3ef78ca49be03afedcaf0063
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: 242ff5c75c97d4446820cf2e549f8744
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
